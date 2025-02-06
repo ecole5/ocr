@@ -1,6 +1,6 @@
-# Extracting Text from PDFs using Tesseract and Ollama
+# Document Processing with Cloudra Private AI
 
-This repository demonstrates how to extract text from PDFs using both classical OCR techniques (Tesseract) and locally running vision-based LLMs (Ollama). It provides ready-to-use runtime images for deployment in the Cloudera AI Workbench.
+This repository demonstrates how to extract text from PDFs using both classical OCR techniques (Tesseract) and locally running vision-based LLMs (Ollama) on Cloudera AI. It provides ready-to-use runtime images for deployment in the Cloudera AI Workbench.
 
 ## 🚀 Quick Start
 
