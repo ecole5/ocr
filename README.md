@@ -18,8 +18,8 @@ For Ollama, if you want to build yourself use the Cloudera Community ML Runtime 
 ### 2. Running the Scripts
 Each runtime is optimized for a specific script:
 
-- **Ollama Runtime** → Run `tesseract.py`
-- **Tesseract Runtime** → Run `ocr.py`
+- **Ollama Runtime** → Run `privateLLM.py`
+- **Tesseract Runtime** → Run `tesseract.py`
 
 ### 3. Using a Commercial LLM for Text Extraction
 For those interested in extracting text using a commercial LLM, you can import the community AMP:
